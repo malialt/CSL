@@ -1,0 +1,28 @@
+BEG
+if(x < y)then{ x=x++5; }else{ a=TRUE; }
+if(x < y)then{x=x**4;}
+while( x < y ) { x++y; }
+int abc1 arr[3]={3,4,1};
+for( int i=4; x < y; x=x++2; ) { int abc1 arr[4]={4,3,56,1}; }
+x&&y;
+x||y;
+x<->y;
+x->y;
+~x;
+x==y;
+x < y;
+x > 5;
+3 < 4;
+x**y;
+x**3;
+a=x**3;
+c=x--4;
+d=x++4;
+int b=x//5;
+int i=4;
+int abc1 arr[4]={4,3,56,1};
+inp abc1;
+out abc2;
+f_foo( asd, asd21 , wqe2  );
+bool f_name(int a, int b){bool a=TRUE;}
+ENDBEG
